@@ -52,6 +52,6 @@ If this project helped you learn something new, consider supporting me:
 
 ## 📫 Connect with me
 
-- Twitter: [@yourusername](https://twitter.com/aymoqine)
-- LinkedIn: [Your Name](https://linkedin.com/in/aymoqine)
-- GitHub: [@yourusername](https://github.com/aymoqine)
+- Twitter: [@aymoqine](https://twitter.com/aymoqine)
+- LinkedIn: [Ayyoub Moqine](https://linkedin.com/in/aymoqine)
+- GitHub: [@aymoqine](https://github.com/aymoqine)
