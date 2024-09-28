@@ -38,8 +38,7 @@ I'm excited to expand this project with:
 
 ## 🙏 Acknowledgments
 
-- 📚 Dart documentation
-- [Any tutorials or resources you used]
+- 📚 [Official Dart Documentation](https://dart.dev/guides)
 
 ## 🤝 Contributing
 
@@ -47,12 +46,12 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## ❤️ Show your support
 
-If this project helped you learn something new, consider buying me a coffee!
+If this project helped you learn something new, consider supporting me:
 
-<a href="https://www.buymeacoffee.com/yourusername" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/aymoqine)
 
 ## 📫 Connect with me
 
-- Twitter: [@yourusername](https://twitter.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- GitHub: [@yourusername](https://github.com/yourusername)
+- Twitter: [@yourusername](https://twitter.com/aymoqine)
+- LinkedIn: [Your Name](https://linkedin.com/in/aymoqine)
+- GitHub: [@yourusername](https://github.com/aymoqine)
