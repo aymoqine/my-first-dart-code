@@ -23,4 +23,16 @@ This simple Dart program:
 1. Ensure you have Dart SDK installed
 2. Clone this repository
 3. Navigate to the project directory
-4. Run the following command:
+4. Run the following command : 
+   dart run main.dart
+   
+## Future Improvements
+
+- Add user input functionality
+- Implement more complex Dart features
+- Create a simple UI using Flutter
+
+## Acknowledgments
+
+- Dart documentation
+- [Any tutorials or resources you used]
