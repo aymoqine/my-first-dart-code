@@ -26,6 +26,7 @@ Through this project, I gained insights into:
 2. Clone this repository
 3. Navigate to the project directory
 4. Run the following command:
+   
    ```
    dart run main.dart
    ```
