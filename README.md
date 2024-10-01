@@ -1,23 +1,24 @@
-# 🎯 My First Dart Project
+# 🎯 User Engagement Calculator in Dart
 
-Welcome to my first venture into Dart programming! This project showcases my initial exploration of Dart's basic concepts and syntax.
+Welcome to my Dart project showcasing a user engagement calculator! This project demonstrates my progress in Dart programming, incorporating more advanced concepts and practical applications.
 
 ## 🚀 Project Description
 
-This simple Dart program demonstrates:
-- 📝 Variable declaration and initialization for a user profile
-- 🔠 String interpolation for output formatting
-- 📜 Multi-line string usage
-- 🖨️ Formatted user profile output to the console
+This Dart program implements:
+- 👤 User profile creation with follower and following counts
+- ⏱️ Watch time calculation and conversion
+- 👍 Engagement measurement based on watch time and likes
+- 📊 Engagement status determination
+- 🖨️ Formatted output of user profile and engagement metrics
 
 ## 🧠 What I Learned
 
 Through this project, I gained insights into:
-- 🌱 Variable declaration and initialization in Dart
-- 💬 String interpolation and multi-line strings
-- 🏗️ Basic Dart syntax and structure
-- 🛠️ Using VS Code for Dart development
-- 🐙 Git and GitHub basics for version control
+- 🌱 Advanced variable declaration and initialization in Dart
+- 🧮 Arithmetic operations and type conversions
+- 🔀 Conditional statements for logic implementation
+- 💬 Complex string interpolation and multi-line strings
+- 🏗️ Structuring code for readability and maintainability
 
 ## 🏃‍♂️ How to Run
 
@@ -28,17 +29,18 @@ Through this project, I gained insights into:
    ```
    dart run main.dart
    ```
-
 ## 🔮 Future Improvements
 
 I'm excited to expand this project with:
-- 📊 User input functionality
-- 🧩 More complex Dart features
-- 📱 A simple UI using Flutter
+- 📊 User input for dynamic profile creation
+- 📈 More sophisticated engagement algorithms
+- 💾 Data persistence using file I/O or a simple database
+- 📱 A graphical user interface using Flutter
 
 ## 🙏 Acknowledgments
 
 - 📚 [Official Dart Documentation](https://dart.dev/guides)
+- 🧑‍🏫 Online Dart programming communities for inspiration
 
 ## 🤝 Contributing
 
@@ -48,10 +50,11 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 If this project helped you learn something new, consider supporting me:
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/aymoqine)
+[<img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="PayPal - The safer, easier way to pay online!">](https://www.paypal.com/paypalme/ayyoubmq)
 
 ## 📫 Connect with me
 
 - Twitter: [@aymoqine](https://twitter.com/aymoqine)
 - LinkedIn: [Ayyoub Moqine](https://linkedin.com/in/aymoqine)
 - GitHub: [@aymoqine](https://github.com/aymoqine)
+
